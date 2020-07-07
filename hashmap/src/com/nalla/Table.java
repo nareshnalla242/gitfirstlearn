@@ -10,7 +10,7 @@ public class Table {
 	System.out.println(a+b+c);
 	System.out.println(a/b);
 	System.out.println(a );
-		System.out.println(a-b+c);
+		System.out.println(a-b);
 	}
 	
 

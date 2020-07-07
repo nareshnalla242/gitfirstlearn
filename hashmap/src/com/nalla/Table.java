@@ -6,7 +6,7 @@ public class Table {
 	public static void main(String[] args) {
 	int a=10;
 	int b=4;
-	System.out.println();
+	
 	System.out.println(a & b);
 		
 	}
